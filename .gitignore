@@ -1,0 +1,3 @@
+#ignore the production version of your config file 
+conf/config.php
+data/*
